@@ -1,4 +1,0 @@
-2020-02-18 19:13:30.198 -03:00 [INF] Starting web host
-2020-02-18 19:16:12.499 -03:00 [INF] Starting web host
-2020-02-18 19:19:48.890 -03:00 [INF] Starting web host
-2020-02-18 19:25:35.415 -03:00 [INF] Starting web host
